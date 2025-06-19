@@ -57,10 +57,12 @@ giving inputs
 ![2](https://github.com/user-attachments/assets/edac7b25-3ced-40f9-8c45-fab30a0e55d1)
 
 after hitting generate
-![Build _ Google AI Studio and 7 more pages - Personal - Microsoft​ Edge 6_19_2025 9_50_39 PM](https://github.com/user-attachments/assets/22015105-ce46-49ba-b9a5-b587f848605e)
+![3](https://github.com/user-attachments/assets/80c12cb2-458a-4e69-b097-19f524af41ae)
+
 
 result
-![Build _ Google AI Studio and 7 more pages - Personal - Microsoft​ Edge 6_19_2025 9_51_07 PM](https://github.com/user-attachments/assets/224b03db-55df-42b0-b16d-724d4e9c6197)
+![4](https://github.com/user-attachments/assets/1f5f2747-4267-4f0e-b3b9-5b82e830b139)
+
 
 
 
