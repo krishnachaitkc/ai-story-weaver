@@ -1,0 +1,5 @@
+{
+  "name": "AI Story Weaver",
+  "description": "An interactive application where users can provide a story prompt and select a genre, and the Gemini AI will weave a captivating continuation. A showcase of AI-powered creative writing assistance.",
+  "requestFramePermissions": []
+}
