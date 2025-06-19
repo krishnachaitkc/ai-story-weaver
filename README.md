@@ -50,12 +50,24 @@ AI Story Weaver is your creative companion—just provide a spark, pick a genre,
 ---
 
 ## 🖼️ Screenshots
-<!--
-Add screenshots here if you have them!
-Example:
-![Story Input](screenshots/story-input.png)
-![Generated Story](screenshots/generated-story.png)
--->
+initial
+![1-ai-story-w](https://github.com/user-attachments/assets/b32e0fb0-32c6-4aa9-a508-27371c2501e6)
+
+giving inputs
+![2](https://github.com/user-attachments/assets/746d2a88-d5f5-41f1-893d-bee89b4eead0)
+
+after hitting generate
+![Build _ Google AI Studio and 7 more pages - Personal - Microsoft​ Edge 6_19_2025 9_50_39 PM](https://github.com/user-attachments/assets/0916b87e-df70-4363-a9ff-23cbd140eb4b)
+
+result
+![Build _ Google AI Studio and 7 more pages - Personal - Microsoft​ Edge 6_19_2025 9_51_07 PM](https://github.com/user-attachments/assets/5c83a8b2-400d-4091-a965-1353a1d940b7)
+
+
+
+
+
+
+
 
 ---
 
