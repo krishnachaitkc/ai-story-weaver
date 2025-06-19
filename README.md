@@ -50,17 +50,10 @@ AI Story Weaver is your creative companion—just provide a spark, pick a genre,
 ---
 
 ## 🖼️ Screenshots
-initial
+
 ![1-ai-story-w](https://github.com/user-attachments/assets/5c07933b-0d13-4db3-9a9b-a74c9a8653c1)
-
-giving inputs
 ![2](https://github.com/user-attachments/assets/edac7b25-3ced-40f9-8c45-fab30a0e55d1)
-
-after hitting generate
 ![3](https://github.com/user-attachments/assets/80c12cb2-458a-4e69-b097-19f524af41ae)
-
-
-result
 ![4](https://github.com/user-attachments/assets/1f5f2747-4267-4f0e-b3b9-5b82e830b139)
 
 
